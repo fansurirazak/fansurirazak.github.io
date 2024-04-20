@@ -1,4 +1,4 @@
-#  Hi, I'm Ariff!
+# 👋 Hi, I'm Ariff!
 
 I'm a data engineer.
 
